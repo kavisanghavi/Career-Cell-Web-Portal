@@ -1,34 +1,22 @@
 ## Welcome to Training and Placement Cell Website
 
+[Live Demo] (https://kavisanghavi.github.io/Placement-Cell/)
+
 This website was developed to streamline the functions of the Career Cell of the University.
-### Markdown
+it has 3 modules:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Company/Recruiter
+2. Student
+3. Training and Placement Officer
 
-```markdown
-Syntax highlighted code block
+### Students
 
-# Header 1
-## Header 2
-### Header 3
+Students could search and apply to the jobs of their choice. They can update their profile but only with approval from the TPO.
 
-- Bulleted
-- List
+### Company/Recruiter
 
-1. Numbered
-2. List
+Companies could sign up and login to their accounts. Upon approval they can post jobs with description. They can also contact students by filtering the student's list on basis of their requirments.
 
-**Bold** and _Italic_ and `Code` text
+### Training and Placement Officer
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kavisanghavi/Placement-Cell/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+He is responsible for approval of each accounts and any changes.
