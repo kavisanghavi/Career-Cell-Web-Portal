@@ -1,6 +1,6 @@
 ## Welcome to Training and Placement Cell Website
 
-[Live Demo] (https://kavisanghavi.github.io/Placement-Cell/)
+[Live Demo](https://kavisanghavi.github.io/Placement-Cell/)
 
 This website was developed to streamline the functions of the Career Cell of the University.
 it has 3 modules:
